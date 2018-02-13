@@ -1,8 +1,6 @@
 package com.example.awesomefat.csc300_spring2018_linkedlist;
 
-/**
- * Created by awesomefat on 1/30/18.
- */
+
 
 public class Node
 {

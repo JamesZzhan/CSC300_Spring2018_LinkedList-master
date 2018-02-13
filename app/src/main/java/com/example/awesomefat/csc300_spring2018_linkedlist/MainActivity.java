@@ -62,6 +62,11 @@ public class MainActivity extends AppCompatActivity
         //this.ll.display();
     }
 
+    public void removeIndexButton(View v)
+    {
+
+    }
+
     public void removeFrontButtonClicked(View v)
     {
         try

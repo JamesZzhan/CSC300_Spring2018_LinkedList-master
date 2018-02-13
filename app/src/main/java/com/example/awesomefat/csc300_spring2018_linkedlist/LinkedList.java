@@ -6,9 +6,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- * Created by awesomefat on 1/30/18.
- */
 
 public class LinkedList
 {
